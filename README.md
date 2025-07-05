@@ -57,7 +57,7 @@ CleanArchitectureDemo/
 
 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/ViniciusNalaSantos/Csharp.CleanArchitectureTemplate.git
 cd CleanArchitectureTemplate
 ```
 
