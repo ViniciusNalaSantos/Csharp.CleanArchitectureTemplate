@@ -10,8 +10,8 @@ CleanArchitectureDemo/
 ├── Domain/             # Enterprise/domain entities & business rules
 ├── Application/        # Business logic & use cases
 ├── Infrastructure/     # External concerns (database, file systems, etc.)
-├── WebApi/            # User interface & API endpoints
-└── UnitTests/         # Unit tests for all layers
+├── WebApi/             # User interface & API endpoints
+└── UnitTests/          # Unit tests for all layers
 ```
 
 ### Layer Details
